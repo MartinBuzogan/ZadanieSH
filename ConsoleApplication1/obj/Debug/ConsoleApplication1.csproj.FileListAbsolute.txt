@@ -1,0 +1,10 @@
+C:\Users\Martin\RiderProjects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\Martin\RiderProjects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\RiderProjects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Martin\RiderProjects\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Martin\RiderProjects\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Martin\RiderProjects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Martin\RiderProjects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Martin\RiderProjects\Solution1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Martin\RiderProjects\Solution1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Martin\RiderProjects\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
